@@ -1,6 +1,6 @@
-# Particle Analysis Script
+# Optical microscopy particle analysis
 
-This Python script performs particle analysis on a specified image, calculating the area and equivalent diameter of detected particles in micrometers. The script utilizes OpenCV for image processing and contour detection, and Pandas for data manipulation and exporting results to a CSV file.
+This Python script performs particle analysis on a specified optical image, calculating the area and equivalent diameter of detected particles in micrometers. The script utilizes OpenCV for image processing and contour detection, and Pandas for data manipulation and exporting results to a CSV file.
 
 ## Prerequisites
 
